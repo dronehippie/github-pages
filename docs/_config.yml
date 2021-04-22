@@ -1,0 +1,6 @@
+title: github-pages
+description: Drone plugin provided by Webhippie
+baseurl: /github-pages
+
+email: mail@webhippie.de
+theme: jekyll-theme-cayman
